@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋 , I'm Avinash
-### A passionate android app developer from India</h3>
+# Hi 👋 , I'm Avinash
+### A passionate Android app developer from India</h3>
 
 ![Contact Card](./contact.png)
 
